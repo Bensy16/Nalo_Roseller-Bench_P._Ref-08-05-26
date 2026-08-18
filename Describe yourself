@@ -1,0 +1,16 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Bench";
+        int age = 22;
+        int weight = 50;
+        double dec = 0;
+        bool True = true;
+
+        Console.Write($"Hello, my name is {name}, I am {age} years old. My weight is {weight}.{dec}, {True}.");
+        
+    }
+}
