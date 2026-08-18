@@ -1,0 +1,11 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        Console.Write("Hello, my name is Roseller Bench P. Nalo, I am 22 years old. I live in Zone 2, Dila-Dila, Santa Rita, Pampanga.");
+        
+    }
+}
